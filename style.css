@@ -1,17 +1,17 @@
 header{
     height: min-content;
 }
-.carousel {
+/* .carousel {
     height: 100px;
     width: 100%;
-}
+} */
 img{
     max-width: 100%;
     border-radius: 5px;
 }
-.carousel{
+/* .carousel{
     padding: 2%;
-}
+} */
 .card img{
     padding: 20px;
 }
